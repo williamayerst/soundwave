@@ -12,8 +12,8 @@
   },
   "author": "Peter Sbarski",
   "license": "BSD-2-Clause",
-  "devDependencies": {
-    "local-web-server": "^1.1.0"
-  },
-  "dependencies": {}
+  "devDependencies": {},
+  "dependencies": {
+      "local-web-server": "^1.1.0"
+}
 }
